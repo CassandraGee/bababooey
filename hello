@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html>
+<head><link rel="icon" href="corazon.png" type="image/x-icon"></head>
+
+
+  
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<link href="script.js" rel="scriptsheet"/>
+
+
+  
+<title>hello :D</title>
+
+<marquee behavior="alternate"><img src="cat5.GIF" width="70px" height="70px"><img src="cat.GIF" width="50px" height="70px"><img
+    src="cat1.GIF" width="60px" height="60px"><img src="cat2.GIF" width="65px" height="75px"><img src="cat3.GIF" width="50px"
+    height="70px"><img src="cat4.GIF" width="70pxh" height="60">
+</marquee>
+
+
+<h1>this page is all about me</h1>
+<p>
+  <marquee scrollamount="10">so if you don't want to learn about my interests get out of here</marquee>
+</p>
+
+  <body>
+<audio src="yeahhh.mp3" autoplay="true" loop type="audio/mp3" zoom="20">
+</audio>
+
+</body>
+
+<table>
+  <tr>
+
+    <th>
+      <t>I love color guard!</t> <br>
+      <t>Here are some of my performances!!</t> <br>
+      <br>
+      <a href="https://youtube.com/playlist?list=PLLRDeoDaeDJ7r_XKHMOscbl2VuYpt0iwW" target="_blank">
+        <img src="daisy.png" width="140" height="140">
+    </th>
+    <th>
+      <t>I am super cool and swaggy, not to brag. B) </t>
+    </th>
+    <th>
+      <t>I love music, what a shocker. Here are some of my favorites!</t><br>
+      <br>
+      <a href="https://youtube.com/playlist?list=PLLRDeoDaeDJ5FYgowuPl0MnZVFadIz9kQ" target="_blank">
+        <img src="daisy.png" width="140" height="140">
+    </th>
+  </tr>
+  <tr>
+    <th>
+      <img src="tennis1.JPG" width="140" height="100"><br><br>
+      <t>Being on varsity tennis is super fun.</t><br><br>
+      <img src="tennis2.jpg"width="140" height="100">
+    </th>
+   
+    <th>
+      <t>SUPER COOL CAT!<br>
+         <a href="https://www.youtube.com/watch?v=efjcQUpP3V0" target="_blank">
+        <img src="cat.GIF" width="140" height="200"></t>
+    </th>
+     <th>
+      <t>Doing different art projects keeps me alive</t> <br> <br>
+<!--Basic structure of slider-->
+ <div class="container">
+<!--Area of the images-->
+  <div class="wrapper">
+     <img src="img1.jpg">
+    <img src="img2.jpg">
+    <img src="img3.jpg">
+     <img src="img4.jpg">
+   <img src="img5.jpg">
+   </div>
+
+</div>
+    </th>
+  </tr>
+</table>
+
+<p>I don't know what else to put, sorry 💀 </p>
+  <br>
+<r>p.s. try highlighting stuff</r>
+
+  
+  <style>
+    
+::selection {
+background:rgba(255, 200, 222, 0.5);
+color: #ff2379;
+}
+  </style>
+  
+</html>
+
